@@ -1,0 +1,8 @@
+{
+  "mongo": {
+    "url": "mongodb://localhost/garage-door-server"
+  },
+  "server": {
+    "port": 8000
+  }
+}

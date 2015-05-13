@@ -1,0 +1,41 @@
+{
+  "name": "garage-door-server",
+  "version": "0.0.1",
+  "description": "Garage Door Service",
+  "main": "app/index.js",
+  "repository": "https://github.com/DavidTanner/garage-door",
+  "author": {
+    "name": "David Tanner"
+  },
+  "keywords": [
+    "pi rest microservice"
+  ],
+  "private": true,
+  "dependencies": {
+    "boom": "^2.7.1",
+    "getconfig": "^2.1.0",
+    "glob": "^5.0.5",
+    "good": "^6.1.2",
+    "good-console": "^5.0.0",
+    "hapi": "^8.4.0",
+    "hoek": "^2.13.0",
+    "joi": "^6.4.1",
+    "lodash": "^3.8.0",
+    "lout": "^6.2.2"
+  },
+  "devDependencies": {
+    "code": "^1.4.0",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.10.0",
+    "gulp-lab": "^1.0.5",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp-serve": "^0.3.1",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.2.4",
+    "lab": "^5.8.0"
+  }
+}
